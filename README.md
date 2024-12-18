@@ -34,8 +34,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
-Developed by: Naneshvaran
- RegisterNumber: 24900972
+Developed by: Prasanth.T
+ RegisterNumber:  24900510
 */
 module synchronuous(out,clk,rst);
 input clk,rst;
